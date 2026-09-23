@@ -1,38 +1,49 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=180&section=header&text=DISREZA&fontSize=70&fontColor=38bdf8&animation=fadeIn&fontAlignY=35&desc=AI%20Systems%20Architect%20%7C%20CRM%20%7C%20HRM%20%7C%20Industrial%20AI&descAlignY=55&descAlign=50" width="100%" />
+
+<p align="center">
+  <img src="./banner.jpg" width="100%" style="border-radius:10px" />
+</p>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pchreza/pchreza/main/banner.jpg" width="100%" />
+  <img src="./logo.jpg" width="140" />
+  <br/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=We+Don't+Build+Websites%2C+We+Build+Systems;From+CRM+to+Smart+Factory+Automation;Let's+Engineer+The+Future" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pchreza/pchreza/main/logo.jpg" width="130" />
-  <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+Systems+Architect;CRM+%7C+HRM+%7C+Industrial+Platforms" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,python,nodejs,postgres,docker,ai" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡%20CRM%20ARCHITECT-0A66C2?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/🧠%20HRM%20PLATFORM-38BDF8?style=for-the-badge&logo=workday&logoColor=white" />
+  <img src="https://img.shields.io/badge/🏭%20INDUSTRIAL%20AI-111827?style=for-the-badge&logo=siemens&logoColor=38BDF8" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,python,nodejs,postgres,redis,docker,ai&perline=8" />
+</p>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/)
-
-</div>
+<p align="center">
+  <a href="https://t.me/Disreza"><img src="https://img.shields.io/badge/TELEGRAM-@Disreza-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=111827" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/STATUS-Available%20For%20Hire-22c55e?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=111827" /></a>
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pchreza&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pchreza&theme=dark&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="49%" />
+
+### 🚀 SYSTEMS I SHIP
+
+| | |
+|---|---|
+| **🏢 CRM Engine**<br/>`Lead → Deal → Automation` | **👥 HRM Core**<br/>`Hiring → Payroll → Performance` |
+| **🏭 Industrial OS**<br/>`IoT → AI → Factory Insights` | **⚙️ Custom SaaS**<br/>`Your Idea → Scalable Product` |
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pchreza&theme=tokyo-night&hide_border=true&area=true&color=38bdf8&line=38bdf8&point=ffffff" width="100%" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pchreza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" />
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=80&section=footer&text=DISREZA&fontSize=14&fontColor=38bdf8" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=100&section=footer&text=DISREZA.COM&fontSize=20&fontColor=38bdf8&animation=fadeIn&fontAlignY=65" width="100%" />
+</p>
